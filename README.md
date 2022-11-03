@@ -4,7 +4,7 @@
 
 ### Lucas Muenchrath
 
-### GH Pages:
+### GH Pages: https://munchy11.github.io/cpnt262-individual-project/
 
 ### Above and Beyond:
 
