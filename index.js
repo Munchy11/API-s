@@ -1,11 +1,9 @@
 fetch('https://fakestoreapi.com/products').then((Data)=>{
-// console.log(Data);
+
   
 return Data.json();
  }) .then((completedata)=>{
-// console.log(completedata[2].title);
 
-// document.getElementById('root').innerHTML=completedata[2].title;
  
 let data1="";
 completedata.map((values) => {
@@ -24,8 +22,8 @@ completedata.map((values) => {
 });
 document.getElementById("cards").innerHTML=data1;
 
-
-}).catch((Error)=>{
 // console.log(Error);
+}).catch((Error)=>{
+
 
 })
