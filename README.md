@@ -17,7 +17,7 @@
 - https://www.youtube.com/watch?v=m_vL25vzpiE
 - https://developer.mozilla.org/en-US/docs/Web/API
 
-Sample of a javascript object: [
+### Sample of a javascript object: [
 {
 "id": 1,
 "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
